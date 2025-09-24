@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "30bbff68-427b-3056-5b02-a8ee03a37843",
+  "instructors": {
+    "content": [
+      "1d6e1725-27ea-224e-988e-8add2f1814bf",
+      "f492a932-0e7f-c201-fd85-1a84a808a284"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "86cf04ae-f235-e3e4-2886-8f3c0b37ffcf",
+    "website": "17-100j-political-economy-i-spring-2016"
+  },
+  "course_title": "Political Economy I",
+  "course_description": "Political Economy I explores the major social science paradigms for analyzing relations among state, economy, and society. Through readings, lectures and discussion of original texts in political liberalism and individualism, neo-classical economics, Marxism, sociological and cultural theories, and neo-institutionalism, the seminar examines the fundamental assumptions on which our understanding of the social world and our research are based.\n",
+  "department_numbers": [
+    "17",
+    "15",
+    "14"
+  ],
+  "extra_course_numbers": "15.678J,14.781J",
+  "primary_course_number": "17.100J",
+  "course_image_thumbnail": {
+    "content": "5ae3d5cb-d250-33bf-a67f-d65e21136d69",
+    "website": "17-100j-political-economy-i-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "38640365-c4dd-409f-aa4a-fbaa66cd447c",
+  "site_short_id": "17.100j-spring-2016",
+  "site_url_path": "courses/17-100j-political-economy-i-spring-2016",
+  "title": "Course Metadata"
+}
